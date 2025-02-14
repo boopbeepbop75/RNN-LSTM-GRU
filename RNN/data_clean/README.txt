@@ -1,1 +1,0 @@
-Cleaned training and testing data will be stored in here after running Data_cleanup files or training files.
